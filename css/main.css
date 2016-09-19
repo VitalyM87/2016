@@ -17,17 +17,18 @@ h3 {
 .row .row [class*="col-"] {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(86,61,124,.40);
-  border: 1px solid rgba(86,61,124,.2);
+  background-color: rgba(190,235,159,.5);
+  border: 1px solid rgba(86,61,124,.5);
 }
 .row .row .day-from-other-month {
-  background-color: rgba(86,61,124,.10);  
+  background-color: white;
+  border: none;
 }
 .row .row .work-daytime {
-  background-color: goldenrod;
+  background-color: rgba(255,97,56,.5);
 }
 .row .row .work-nighttime {
-  background-color: deepskyblue;
+  background-color: rgba(0,163,136,.5);
 }
 
 hr {
