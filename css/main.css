@@ -2,10 +2,10 @@ body {
   font-size: 1.7em;
 }
 .soc_icons {
-  margin-top: 30px;
+  margin-top: 27px;
 }
 .portfolio_item {
-  padding: 1em;
+  padding: 0 1em 1em;
   background-color: blanchedalmond;
   border: 2px solid white;
 }
