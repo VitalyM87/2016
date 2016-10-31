@@ -4,6 +4,9 @@ body {
 .soc_icons {
   margin-top: 27px;
 }
+.portfolio {
+  margin-top: 5em;
+}
 .portfolio_item {
   padding: 0 1em 1em;
   background-color: blanchedalmond;
