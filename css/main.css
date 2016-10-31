@@ -1,5 +1,10 @@
+.hello {
+  margin: 2% 0;
+}
+.soc_icons {
+  margin-top: 20px;
+}
 .portfolio_item {
   background-color: blanchedalmond;
-  height: 48px;
-  border: 2px solid white;
+  border: 2px white;
 }
