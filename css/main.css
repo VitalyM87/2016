@@ -2,9 +2,10 @@
   margin: 2% 0;
 }
 .soc_icons {
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .portfolio_item {
+  padding: 1em;
   background-color: blanchedalmond;
-  border: 2px white;
+  border: 2px solid white;
 }
