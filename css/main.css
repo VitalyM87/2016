@@ -6,3 +6,6 @@
   background-color: blanchedalmond;
   border: 2px solid white;
 }
+.portfolio_item img {
+  max-width: 200px;
+}
