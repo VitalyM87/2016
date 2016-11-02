@@ -3,30 +3,29 @@
 /*Header*/
 .header {
   height: 200px;
-  background-color: #336;
+  background-color: rgba(51,51,102,.8);
   font-variant: small-caps;
   font-size: 28px;
   position: relative;
   padding-top: 20px
 }
-.header_button {
-}
-.header_button a {
+.headerButtons a {
   text-decoration: none;
-  color: #c9c;
+  color: black;
+  
+}
+.headerButtons {
+  margin-top: 50px;
+  text-decoration: none;
   font-weight: 600;
+  border-top: 1px solid black;
+  border-bottom:  1px solid black;
 }
 .header_logopng {
   height: 180px;
   background-image: url(../img/header_logo.png);
   background-size: contain;
   background-repeat: no-repeat;
-}
-.header .header_button:hover {
-  background-color: #303;
-}
-.header .header_button:active {
-  background-color: #c9c;
 }
 
 
@@ -38,6 +37,9 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+.main_logo {
+  margin-top: 50px;
+}
 .main ul {
   margin-top: 50px;
 }
@@ -45,16 +47,16 @@
   font-weight: 800;
   color:rgba(67,153,97,.6);
   text-shadow:4px 0px 0 rgba(236,144,79, .7);
-  line-height: .9em;
+  line-height: 1em;
   background-image: url("img/main2x800.png");
-  opacity: 0.8;
+  opacity: 0.9;
   list-style-type: none;
-  letter-spacing: .01em;
+  letter-spacing: .4em;
 }
 
 .main_textarea {
-  min-height: 300px;
-  background-color: #c9c;
+  min-height: 1300px;
+  background-color: rgba(204,153,204,.8);
   font-size: 1.5em;
   text-shadow: 1px 1px 1px grey;
 }
@@ -63,12 +65,12 @@
 
 .footer {
 	min-height: 100px;
-	background-color: #336;
+	background-color: rgba(51,51,102,.8);
 }
 .footer p {
 	float: left;
 	margin: 24px 50px;
-	color: grey;
+	color: white;
 	font-size: 12px;
 	text-align: center;
 }
