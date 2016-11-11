@@ -6,11 +6,11 @@ body {
 }
 .portfolio {
   margin-top: 5em;
+  background-color: blanchedalmond;
 }
 .portfolio_item {
   padding: 0 1em 1em;
-  background-color: blanchedalmond;
-  border: 2px solid white;
+  text-align: center;
 }
 .portfolio_item img {
   max-width: 200px;
