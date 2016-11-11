@@ -1,6 +1,32 @@
+/*MAIN*/
+.main {
+  background-color: rgba(36,36,46,1);
+  color: white;
+}
+.main h2 {
+  margin-top: 50px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.main h3 {
+  text-transform: uppercase;
+  margin: 40px 0 20px;
+}
+.main h4 {
+  color: rgb(193,193,193);
+  text-align: center;
+}
+.main p {
+  margin: 40px;
+}
+.main img {
+  margin: 50px 0;
+}
 .text-color-red {
   color: rgb(255,8,50);
 }
+
+
 /*HEADER*/
 .header {
   background-color: rgba(47,47,47,1);
@@ -33,6 +59,7 @@
   color: white;
 }
 .development h2 {
+  margin-top: 50px;
   text-transform: uppercase;
   text-align: center;
 }
@@ -51,9 +78,12 @@
 .development-img-examples img{
   margin: 40px 0;
 }
-.screenshoot1 {
+.screenshot1 {
   background-color: rgba(47,47,47,1);
   text-align: center;
   color: white;
+}
+.screenshot1 h3 {
+  margin: 50px 30px;
 }
 /*HISTORY*/
