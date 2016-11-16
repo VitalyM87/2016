@@ -88,8 +88,7 @@
 }
 /*HISTORY*/
 
-
-
-.blender-model-div  {
-	min-height: 800px;
+/*MODEL*/
+.blender-model-div {
+  margin: 2% 10%;
 }
