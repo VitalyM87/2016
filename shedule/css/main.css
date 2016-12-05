@@ -7,10 +7,6 @@ h3 {
   margin-top: 2rem;
 }
 
-.row {
-  margin-bottom: 1rem;
-}
-
 .row [class*="col-"] {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -33,9 +29,4 @@ h3 {
 
 .row .work-nighttime {
   background-color: rgba(0,163,136,.5);
-}
-
-hr {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
 }
