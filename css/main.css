@@ -4,9 +4,16 @@ body {
 .soc_icons {
   margin-top: 27px;
 }
+
+header {
+  background-color: darkgray;
+  padding: 30px 0;
+}
+
 .portfolio {
-  margin-top: 2em;
   background-color: blanchedalmond;
+  list-style-type: none;
+  margin-bottom: 0;
 }
 .portfolio_item {
   margin-bottom: 20px;
@@ -17,4 +24,9 @@ body {
 }
 .portfolio_item img {
   min-width: 80%;
+}
+
+.main {
+  background-color: darkgray;
+  min-height: 500px;
 }
