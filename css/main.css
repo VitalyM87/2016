@@ -15,6 +15,7 @@ body {
   background-color: rgb(34,53,60);
 }
 .header-top a {
+  margin: 0 10px 10px;
   color: white;
 }
 /*.portfolio {
